@@ -13,16 +13,14 @@ As long as you are having fun with Laravel, enjoy!!
 - Create the 'Post' model by running this code which creates the 'controller', the database 'migrations' and the 'resource' section: 'php artisan make:model Post --controller --migration --resource'
 - Go to the migration file and update the schema accordingly.
 - Edit the '.env' file in the document root to correctly reflect your database connection details:
-
-'''
+```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=#yourDatabaseName#
 DB_USERNAME=#username#
 DB_PASSWORD=#password#
-'''
-
+```
 - Run 'php artisan migrate' to carry out the migration and build the tables.
 - Run 'php artisan serve' to serve up the application.
 - Enjoy!

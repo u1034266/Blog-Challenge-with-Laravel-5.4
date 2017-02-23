@@ -27,7 +27,7 @@ DB_PASSWORD=#password#
 
 ## Blog Features
 
-### Non Admin / Logged-in users:
+### Non-Admin / Guest users:
 - Can only view the Blog home page and see only `active` blogs.
 - Cannot manage an existing blog
 - Can register, login and start blogging.
@@ -40,7 +40,8 @@ DB_PASSWORD=#password#
   - **Create** a blog
   - **Edit** blog
   - **Delete** a blog
-  - Set a blogs *Active Status*
+  - Set a blog's **Active Status**
+
 ## Pending / Additional Improvements
 
 Due to time constraints, and the need to build a simple blog using `Laravel 5.4`, the following features were not done.

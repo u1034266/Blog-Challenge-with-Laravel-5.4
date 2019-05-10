@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "yamis_laravel5_4_blog/yamis_laravel5_4_blog",
+    "description": "The Laravel 5.4 Blog Challenge.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
